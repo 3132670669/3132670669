@@ -1,7 +1,7 @@
 
 - 👋 嗨，我是Keep Simple。
 - 👀 我对Java和AI感兴趣。
-- 🌱 我目前正在学习Go和Python。
+- 🌱 我目前正在学习Python。
 - 💞️ 我期待能合作共创项目。
 - 📫 你可以通过邮箱3132670669@qq.com联系我。
 
@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Keep Simple.
 - 👀 I’m interested in java and ai.
-- 🌱 I’m currently learning go, python.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on the creation of projects.
 - 📫 How to reach me at 3132670669@qq.com.
 
