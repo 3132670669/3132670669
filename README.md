@@ -9,30 +9,6 @@
   </p>
 </p>
 
-## 👋 关于我
-
-- 💼 **Java 开发者** | **AI 爱好者** | **持续学习者**
-- 🌱 目前正在深入学习 **Python** 和 **人工智能** 相关技术
-- 🎯 目标：构建高效、智能的软件解决方案
-- 💡 坚信"保持简单"是解决复杂问题的关键
-- 🤝 期待与志同道合的开发者合作共创项目
-
-## 🛠️ 技术栈
-
-### 编程语言
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📈 GitHub 统计
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3132670669&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Keep Simple 的 GitHub 统计" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3132670669&theme=github&hide_border=true&area=true" alt="贡献图" width="100%"/>
-</div>
-
-## 📫 联系我
-
 <p align="center">
   <a href="mailto:3132670669@qq.com">
     <img src="https://img.shields.io/badge/Email-3132670669@qq.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -41,6 +17,14 @@
     <img src="https://img.shields.io/badge/GitHub-3132670669-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+## 👋 关于我
+
+- 🍵 **Java 开发者** | **AI 爱好者** | **持续学习者**
+- 👀 目前正在深入学习 **Python** 和 **AI** 相关技术
+- 🎯 目标：构建高效、智能的软件解决方案
+- 🌱 坚信"**保持简单**"是解决复杂问题的关键
+- 🤝 期待与志同道合的开发者合作共创项目
 
 ## 💭 个人格言
 
