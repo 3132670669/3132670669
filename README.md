@@ -26,13 +26,12 @@
 - 🌱 坚信"**保持简单**"是解决复杂问题的关键
 - 🤝 期待与志同道合的开发者合作共创项目
 
-## 💭 个人格言
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=3132670669" />
 
-> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
-> 
-> 在技术的世界里，保持简单往往是最复杂、最优雅的解决方案。
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3132670669&locale=zh_Hans)](https://git.io/streak-stats)
 
 ---
+
 
 <p align="center">
   <i>✨ 保持简单，专注创造 ✨</i>
