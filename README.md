@@ -33,9 +33,16 @@
   <br><br>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3132670669&layout=compact&theme=default&hide_border=true&langs_count=6" alt="最常使用语言" />
   <br><br> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3132670669&theme=github&hide_border=true&area=true" alt="贡献图" width="100%"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=3132670669&theme=github&hide_border=true&area=true" alt="贡献图" width="100%"/> -->
 </div>
 
+## 💭 个人格言
+
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+> 
+> 在技术的世界里，保持简单往往是最复杂、最优雅的解决方案。
+
+---
 
 <p align="center">
   <i>✨ 保持简单，专注创造 ✨</i>
