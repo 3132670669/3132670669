@@ -28,14 +28,16 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3132670669&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Keep Simple 的 GitHub 统计" />
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3132670669&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3132670669&layout=compact&theme=default&hide_border=true&langs_count=6" alt="最常使用语言" />
   <br><br> -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=3132670669&theme=github&hide_border=true&area=true" alt="贡献图" width="100%"/> -->
+ 
 </div>
 
+ 
 ## 💭 个人格言
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
