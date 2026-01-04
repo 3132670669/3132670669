@@ -26,11 +26,11 @@
 - 🌱 坚信"**保持简单**"是解决复杂问题的关键
 - 🤝 期待与志同道合的开发者合作共创项目
 
-## 📈 GitHub Stats
+ <!-- ## 📈 GitHub Stats  -->
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3132670669&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <br><br>
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=3132670669&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /> 
+  <br><br>  -->
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3132670669&layout=compact&theme=default&hide_border=true&langs_count=6" alt="最常使用语言" />
   <br><br> -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=3132670669&theme=github&hide_border=true&area=true" alt="贡献图" width="100%"/> -->
